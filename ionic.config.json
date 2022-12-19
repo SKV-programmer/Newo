@@ -1,0 +1,7 @@
+{
+  "name": "Newo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
